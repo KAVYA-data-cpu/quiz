@@ -1,0 +1,4 @@
+node_modules
+wizard.db*
+.env
+.vercel
